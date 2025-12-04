@@ -124,7 +124,7 @@ export default function Home() {
               <Timeline
                 items={[
                   {
-                    title: 'Diploma in Applied Computing',
+                    title: 'Diploma in Infocomm Security Management',
                     organization: 'Singapore Polytechnic',
                     period: '2022 - Present',
                     description: 'Specializing in FinTech with focus on data science, machine learning, and financial technology solutions.',
@@ -280,7 +280,7 @@ export default function Home() {
             <Timeline
               items={[
                 {
-                  title: 'Technical Intern / Analyst',
+                  title: 'Software Developer Intern',
                   organization: 'Aegis Technology',
                   period: '2023 - 2024',
                   description: 'Specialized in network analysis, performance testing, and data analytics for enterprise solutions.',
