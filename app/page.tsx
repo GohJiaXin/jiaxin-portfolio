@@ -265,6 +265,14 @@ export default function Home() {
               techStack={['Docker', 'ELK Stack', 'Automation', 'Log Analysis', 'Security']}
               contribution="Set up containerized infrastructure using Docker and integrated ELK Stack for centralized logging. Developed automation scripts for deployment and monitoring, creating a scalable security monitoring solution."
             />
+            
+            <ProjectCard
+              title="Student Management System (CMS)"
+              description="A robust command-line Course Management System built in C, featuring comprehensive CRUD operations, advanced filtering, sorting capabilities, and enterprise-grade security features including SQL injection and command injection prevention."
+              techStack={['C Programming', 'File I/O', 'Data Structures', 'Security', 'Input Validation', 'Memory Management']}
+              contribution="Developed a full-featured student record management system with dynamic memory allocation, comprehensive input validation, and security hardening. Implemented features including record insertion, querying, updating, deletion, sorting by ID/marks, filtering by programme/mark range, and statistical summaries. Added multi-layered security including SQL injection detection, command injection prevention, and input sanitization to ensure system robustness."
+              demoLink="https://youtu.be/_sC1uX7z-zQ"
+            />
           </div>
         </div>
       </section>
