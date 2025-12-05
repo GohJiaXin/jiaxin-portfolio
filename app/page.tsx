@@ -243,6 +243,7 @@ export default function Home() {
               techStack={['Python', 'Pandas', 'NumPy', 'Matplotlib', 'Seaborn', 'Time-series Analysis']}
               contribution="Developed end-to-end analysis pipeline including data preprocessing, feature engineering, and trend visualization. Implemented statistical models to identify market patterns and created interactive visualizations for insights."
               githubLink="https://github.com/GohJiaXin/Project-1-Stock-Market-Trend-Analysis"
+              demoLink="https://youtu.be/NGz5wMoDyuU"
             />
             
             <ProjectCard
